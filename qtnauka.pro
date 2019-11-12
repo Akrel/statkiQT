@@ -19,12 +19,14 @@ SOURCES += \
     dialog.cpp \
     main.cpp \
     mainwindow.cpp \
-    mapa.cpp
+    mapa.cpp \
+    ship.cpp
 
 HEADERS += \
     dialog.h \
     mainwindow.h \
-    mapa.h
+    mapa.h \
+    ship.h
 
 FORMS += \
     dialog.ui \
